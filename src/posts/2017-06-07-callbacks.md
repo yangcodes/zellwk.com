@@ -13,7 +13,7 @@ Have you come across the term "callback" but don't know what it means? Don't wor
 
 Although callbacks can be confusing, you still need to learn them thoroughly as they form a critical concept in JavaScript. You can't get very far without knowing callbacks 🙁.
 
-That's what today's article is for! You'll learn what callbacks are, why they're important, and how to use them. 😄
+That's what today's article is for! You'll learn what callbacks are, why they're important, and how to use them 😄.
 
 <!--more-->
 
